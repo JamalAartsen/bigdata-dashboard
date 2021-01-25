@@ -1,0 +1,3 @@
+[0112/005059.062:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[0112/005433.534:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0112/005437.019:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
