@@ -1,0 +1,154 @@
+#h2Title {
+  margin-top: 0%;
+  text-align: center;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  color: white;
+}
+
+.h3Title {
+  margin-left: 20px;
+  margin-bottom: 0px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.numberOne {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  border-color: white;
+  display: inline-block;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  width: 35px;
+}
+
+.numberTwo {
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  border-color: white;
+  float: right;
+  border-style: solid;
+  border-radius: 10px;
+  padding: 5px;
+  width: 35px;
+}
+
+.inline_block_layout {
+  width: 50%;
+  display: inline-block;
+  height: 600px;
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+#background_scatterplot {
+  width: 50%;
+  display: inline-block;
+  height: 600px;
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.background {
+  background-color: #082255;
+  width: 50%;
+  height: 600px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+#background_datatable {
+  background-color: #082255;
+  width: 50%;
+  height: 600px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+#divOuterContainer {
+  display: flex;
+  width: 100%;
+}
+
+#divOuterContainerTable {
+  display: flex;
+  width: 100%;
+}
+
+#name {
+  margin-top: -10px;
+}
+
+#hotel_scores_title {
+  text-align: center;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#shield {
+  height: 75px;
+  width: 75px;
+  position: relative;
+  float: right;
+  margin-right: 20px;
+}
+
+#banner {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+}
+#OuterOuterDiv {
+  background-color: #061e44;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+
+#data_table {
+  padding: 20px;
+}
+
+#titleHotel {
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 20px;
+}
+
+.click_data {
+  padding-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+#custum_data_div {
+  background-color: #093180;
+  margin: 20px;
+  height: 200px;
+}
+
+#hotel_information {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+}

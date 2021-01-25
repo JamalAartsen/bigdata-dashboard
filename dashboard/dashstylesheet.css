@@ -1,0 +1,32 @@
+#tab_layout_grafiek {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#tab_layout_data_table {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.selected {
+  color: black;
+  box-shadow: 1px 1px 0px white;
+  border-left: 1px solid lightgrey !important;
+  border-right: 1px solid lightgrey !important;
+  border-top: 3px solid #e36209 !important;
+}
+
+#tabs {
+  display: flex;
+  width: 50%;
+  align-self: center;
+  margin-bottom: 20px;
+}
